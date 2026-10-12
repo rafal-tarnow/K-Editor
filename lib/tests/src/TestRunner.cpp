@@ -1,4 +1,4 @@
-#include "TestRunner.hpp""
+#include "TestRunner.hpp"
 
 #include <QTest>
 #include <algorithm>
